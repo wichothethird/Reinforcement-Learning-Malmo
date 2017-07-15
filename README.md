@@ -1,0 +1,2 @@
+# Reinforcement-Learning-Malmo
+In this assignment, we have simulated a reinforcement learning based dog, whose life’s purpose, as it tends to be, is to please its owner. You will define the details of the Markov Decision Process, and use the provided implementation of Q-Learning to learn a policy. Then, you will extend the MDP with more states and actions, and see if how well you can get the agent to do.
